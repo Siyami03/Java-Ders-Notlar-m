@@ -6,3 +6,5 @@
 
   Yorum Kısmı Ayarları ==> Settings--> Editor-->Color Shceme-->Java-->Comments-->Block comment
                            buradan Block comment yorum kısmının rengi ve italic ve bold ayarlarini yapabilirsiniz
+
+BU NOTU HEM İNTELİJE HEM DE KLASÖRE GÖNDERMEK İÇİN GİTHYBDA YAZDIM
