@@ -9,6 +9,7 @@ public class Variables01 {
         //Java bu satiri okumaz. Kendimize veya baskasina aciklamadir
 
         //Bu notu github'a göndermek için intellijde yazdım.
+        //Bu notu intelije göndermek için göndermek için githubda yazdım.
 
         /*
         1) Java dili Strongly Typed’dir, bu nedenle Java’daki her değişken(variable), belirli veri türü(data type) ile
