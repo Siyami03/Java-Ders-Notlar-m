@@ -1,0 +1,12 @@
+
+Package uzerinde sag tik ==> new ==> file ==> dosya ismi gir ve .txt uzantisini ekle.
+
+lines : okumak icin
+Paths : txt dosyaina ulasmak icin
+
+==> Files.lines(Paths.get())
+==> txt dosyasi uzerinde sag tik
+==> Copy PathReference
+==> cikan listeden src olanini al yani tikla (Path From Content Ront src/main...) ve parantez icine yapistir.
+==> Files.lines(Paths.get("src/main/java/d32lambda/TextDosyasiOlusturma.txt")).forEach(System.out::println);
+==> lines altında compile time error verir. uzerinde tıklayarak "throws IOException" olustur.

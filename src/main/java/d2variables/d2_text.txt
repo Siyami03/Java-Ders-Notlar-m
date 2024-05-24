@@ -1,0 +1,8 @@
+  import hatası ==> File --> Project Structure --> Platform Settings --> SDKs --> satırda 1 tane kalıncaya kadar
+                    (-) yap --> Apply --> OK
+
+  Satır altlarındaki yeşil çizgileri kaldırma ===> Settings --> Inspections --> Proofreading --> Typo -->
+                                                   Highlighting in Editor
+
+  Yorum Kısmı Ayarları ==> Settings--> Editor-->Color Shceme-->Java-->Comments-->Block comment
+                           buradan Block comment yorum kısmının rengi ve italic ve bold ayarlarini yapabilirsiniz
