@@ -8,6 +8,8 @@ public class Variables01 {
 
         //Java bu satiri okumaz. Kendimize veya baskasina aciklamadir
 
+        //Bu notu github'a göndermek için intellijde yazdım.
+
         /*
         1) Java dili Strongly Typed’dir, bu nedenle Java’daki her değişken(variable), belirli veri türü(data type) ile
         iliskilendirilecektir.
@@ -25,6 +27,8 @@ public class Variables01 {
 
            String          selam               =          "Hello World"     ;
            System.out.println(selam);
+
+        System.out.println("Bu notu github'a göndermek için intellijde yazdım.");
 
         //Ornek 2 : Tamsayi(int) data tipinde ismi age olan bir variable olusturunuz
         // ve icine 15 yukleyip console’a yazdiriniz
